@@ -1,0 +1,3 @@
+# for office 365 admin
+msgraph-sdk-python # MS Graph API SDK
+python-dotenv # load env dot file
