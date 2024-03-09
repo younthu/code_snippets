@@ -1,3 +1,11 @@
 # for office 365 admin
-msgraph-sdk-python # MS Graph API SDK
+# MS Graph API SDK
+msgraph-sdk
+
+# Microsoft Authentication Library, should be included in msgraph-sdk automatically, explicit install not needed here.
+msal
+# Microsoft Authentication Library extensions (MSAL EX) provides a persistence API that can save your data on disk, encrypted on Windows, macOS and Linux. Concurrent data access will be coordinated by a file lock mechanism.
+msal-extensions
+
+#
 python-dotenv # load env dot file
